@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Sai Sreekar Gottipati
+👋 Hi, I’m Sai Sreekar Gottipati
   
 Transforming Data Into Actionable Insights
 
