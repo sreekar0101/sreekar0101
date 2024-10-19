@@ -1,5 +1,8 @@
 - 👋 Hi, I’m Sai Sreekar Gottipati
-- 👀 About Me - I am a Data Analyst with extensive experience in managing and maintaining interactive dashboards, processing and analyzing large datasets, and delivering actionable insights to optimize operational efficiency. Skilled in Python, SQL, Power BI, Tableau, and MongoDB, I am passionate about using data to drive business decisions and improve user safety. 
+  
+Transforming Data Into Actionable Insights
+
+👀 About Me - I am a Data Analyst with extensive experience in managing and maintaining interactive dashboards, processing and analyzing large datasets, and delivering actionable insights to optimize operational efficiency. Skilled in Python, SQL, Power BI, Tableau, and MongoDB, I am passionate about using data to drive business decisions and improve user safety. 
 
   email: sreekar0101@gmail.com | Phone: +91 7093746646 |LinkedIn: https://www.linkedin.com/in/sai-sreekar-gottipati/ | Github: https://github.com/sreekar0101 
 
@@ -92,12 +95,5 @@ Alright, based on your resume, let's craft a tailored portfolio that showcases y
 
 
 
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
-<!---
-sreekar0101/sreekar0101 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
